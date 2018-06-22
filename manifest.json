@@ -8,7 +8,8 @@
     "default_popup": "index.html"
   },
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "storage" //added storage permisson, so that can track changes in view.(Laxmann)
   ],
   "icons": {
     "16": "images/img1.png",
